@@ -1,0 +1,23 @@
+{
+    "name": "vue-mixpanel-browser",
+    "version": "0.0.1",
+    "description": "A vue plugin for mixpanel-browser",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "license": "ISC",
+    "author": "Chris Woodle <chriswoodle@outlook.com>",
+    "scripts": {
+        "build": "tsc -b -v"
+    },
+    "repository": {
+        "url": "https://github.com/chriswoodle/vue-mixpanel-browser",
+        "type": "git"
+    },
+    "dependencies": {
+        "@types/mixpanel-browser": "^2.35.4",
+        "mixpanel-browser": "^2.39.0"
+    },
+    "devDependencies": {
+        "vue": "^2.6.12"
+    }
+}
