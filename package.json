@@ -1,6 +1,6 @@
 {
     "name": "vue-mixpanel-browser",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "A vue plugin for mixpanel-browser",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -9,6 +9,13 @@
     "scripts": {
         "build": "tsc -b -v"
     },
+    "keywords": [
+        "vue",
+        "mixpanel",
+        "vue-mixpanel",
+        "mixpanel-browser",
+        "vue-mixpanel-browser"
+    ],
     "repository": {
         "url": "https://github.com/chriswoodle/vue-mixpanel-browser",
         "type": "git"
