@@ -1,5 +1,7 @@
 # vue-mixpanel-browser
 
+[![NPM](https://nodei.co/npm/vue-mixpanel-browser.png)](https://www.npmjs.com/package/vue-mixpanel-browser)
+
 A vue plugin for [Mixpanel Browser](https://www.npmjs.com/package/mixpanel-browser)
 
 ## Installation
