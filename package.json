@@ -1,6 +1,6 @@
 {
     "name": "vue-mixpanel-browser",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "description": "A vue plugin for mixpanel-browser",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
